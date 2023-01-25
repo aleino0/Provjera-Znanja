@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\Provjera_2\bin\Debug\Provjera_2.exe.config
+C:\Users\ucenik\source\repos\Provjera_2\bin\Debug\Provjera_2.exe
+C:\Users\ucenik\source\repos\Provjera_2\bin\Debug\Provjera_2.pdb
+C:\Users\ucenik\source\repos\Provjera_2\obj\Debug\Provjera_2.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Provjera_2\obj\Debug\Provjera_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Provjera_2\obj\Debug\Provjera_2.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Provjera_2\obj\Debug\Provjera_2.exe
+C:\Users\ucenik\source\repos\Provjera_2\obj\Debug\Provjera_2.pdb
